@@ -58,11 +58,6 @@ def load_data(file_path):
 def main():
     # --- Title and Introduction ---
     st.markdown("<h1 style='text-align: center;'>🛒 Online Retail Sales Dashboard</h1>", unsafe_allow_html=True)
-    st.markdown("""
-    Welcome to the interactive sales dashboard for the Online Retail dataset.
-    This application allows you to analyze sales trends, top products, customer behavior, and regional performance.
-    Use the filters below to refine the data.
-    """)
 
     # --- Load Data ---
     df = load_data('Online_Retail.csv')
