@@ -36,14 +36,6 @@ This section features:
 * **Monetary Value Treemap:** A powerful visual that shows which customer segments contribute the most to your bottom line.
 * **Purchase Frequency Analysis:** Compare the average purchase frequency across different segments to identify your most engaged (and least engaged) customers.
 
-## 🎬 Dashboard in Action
-
-A quick look at the dashboard's features and interactivity.
-
-*(**Pro Tip:** Create a short GIF of you using the app and upload it here. You can use tools like Giphy Capture or LICEcap. It makes a README 100x more engaging!)*
-
-![Dashboard GIF](https-placeholder-for-your-gif-or-screenshot.gif)
-
 ## 🛠️ Tech Stack & Libraries
 
 This project was brought to life with the following technologies:
@@ -56,7 +48,3 @@ This project was brought to life with the following technologies:
 ## 💾 Data Source
 
 This analysis is based on the popular **Online Retail Data Set** from the UCI Machine Learning Repository, which contains transactional data from a UK-based online retailer.
-
----
-
-Feel free to fork this repository, star it if you find it helpful, or contribute with your own ideas!
