@@ -8,7 +8,7 @@
 
 Ever wondered who your best customers are? Or which products are *really* flying off the digital shelves? This interactive dashboard transforms raw online retail data into actionable business intelligence.
 
-Built with Streamlit, this tool provides a two-pronged view of your e-commerce world: a high-level **Sales Dashboard** and a deep-dive **RFM Customer Segmentation Analysis**. Stop guessing and start making data-driven decisions! 💡
+Built with Streamlit, this tool provides a two-pronged view of your e-commerce world: **Sales Dashboard** and a deep-dive **RFM Customer Segmentation Analysis**. Stop guessing and start making data-driven decisions! 💡
 
 ### 🚀 [View the Live Demo Here!](https://online-retail-dashboard-by-luthfillah.streamlit.app/)
 
