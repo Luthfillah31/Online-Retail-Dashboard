@@ -31,10 +31,17 @@ Go beyond sales figures and understand the *people* behind the purchases. The RF
 * **Frequency:** How often do they buy?
 * **Monetary:** How much do they spend?
 
-This section features:
-* **Segment Distribution Charts:** Instantly see how many customers fall into crucial segments like `champions`, `loyal_customers`, `at_risk`, and `hibernating`.
-* **Monetary Value Treemap:** A powerful visual that shows which customer segments contribute the most to your bottom line.
-* **Purchase Frequency Analysis:** Compare the average purchase frequency across different segments to identify your most engaged (and least engaged) customers.
+This section features
+
+  * **Segment Distribution Charts:** Instantly see how many customers fall into crucial segments like `champions`, `loyal_customers`, `at_risk`, and `hibernating`.
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/1dd57370-3247-47ee-a2f5-53fa5eafb288" alt="RFM Customer Segments" width="500">
+  </p>
+  <p align="center"><em>Visual representation of different RFM customer segments.</em></p>
+
+  * **Monetary Value Treemap:** A powerful visual that shows which customer segments contribute the most to your bottom line.
+  * **Purchase Frequency Analysis:** Compare the average purchase frequency across different segments to identify your most engaged (and least engaged) customers.
 
 ## 🛠️ Tech Stack & Libraries
 
